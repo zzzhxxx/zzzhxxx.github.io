@@ -13,34 +13,20 @@
   },
   "dependencies": {
     "hexo": "^6.2.0",
-<<<<<<< HEAD
-    "hexo-asset-image": "https://github.com/CodeFalling/hexo-asset-image.git",
-    "hexo-bangumi-butterfly": "^1.0.0",
-    "hexo-bilibili-bangumi": "^1.7.8",
     "hexo-butterfly-extjs": "^1.1.9",
-    "hexo-calendar": "^1.0.4",
-=======
-    "hexo-butterfly-extjs": "^1.1.9",
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
-<<<<<<< HEAD
     "hexo-github-card": "^1.0.5",
-=======
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
     "hexo-migrator-wordpress": "^2.1.2",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^5.0.0",
     "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-<<<<<<< HEAD
     "hexo-steam-games": "^1.2.1",
-=======
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
     "hexo-theme-landscape": "^0.0.3"
   }
 }
