@@ -9,13 +9,9 @@ menu:
    分类: /categories/ || fas fa-folder-open
    爱好||fas fa-list:
      音乐: /music/ || fas fa-music
-<<<<<<< HEAD
      追番: /bangumis/ || fas fa-video
      摄影: /gallery/ || fas fa-camera-retro
      游戏: /steamgames/ || fas fa-steam-square 
-=======
-     追番: /bangumi/ || fas fa-video
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
    友情链接: /link/ || fas fa-link
    关于: /about/ || fas fa-heart
 
@@ -96,17 +92,10 @@ disable_top_img: false
 index_img: https://pic.zzzhxxx.top/2021/07/06/bf1a8b8dbcc9e.JPG
 
 # If the banner of page not setting, it will show the top_img
-<<<<<<< HEAD
 default_top_img: https://pic.zzzhxxx.top/2022/05/30/80d017394b4fd.png
 
 # The banner image of archive page
 archive_img: https://pic.zzzhxxx.top/2022/05/30/7c268a88f8eae.jpg
-=======
-default_top_img:
-
-# The banner image of archive page
-archive_img:
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
