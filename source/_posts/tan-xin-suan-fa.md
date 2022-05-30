@@ -7,6 +7,7 @@ id: '54'
 categories:
   - - 算法
 date: 2019-01-17 20:46:33
+cover: https://pic.zzzhxxx.top/2022/05/30/79bc7088fdd9c.png
 ---
 
 # 贪心算法
