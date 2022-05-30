@@ -8,10 +8,7 @@ id: '74'
 categories:
   - - 算法
 date: 2020-10-16 20:45:18
-<<<<<<< HEAD
 cover: https://pic.zzzhxxx.top/2022/05/30/3b58cf65eff3a.png
-=======
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 ---
 
 # 存图

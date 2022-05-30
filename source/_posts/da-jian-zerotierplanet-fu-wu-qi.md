@@ -7,10 +7,7 @@ id: '368'
 categories:
   - - 技术
 date: 2022-04-29 19:06:27
-<<<<<<< HEAD
 cover: https://pic.zzzhxxx.top/2022/05/30/1b8c998bd7be9.png
-=======
->>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 ---
 
 # 前言
