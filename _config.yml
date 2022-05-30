@@ -13,7 +13,11 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+<<<<<<< HEAD
 url: https://blog.zzzhxxx.top
+=======
+url: https://zzzhxxx.github.io
+>>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +44,11 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
+<<<<<<< HEAD
 post_asset_folder: true
+=======
+post_asset_folder: false
+>>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 relative_link: false
 future: true
 highlight:
@@ -105,6 +113,7 @@ deploy:
   type: 'git'
   repo: https://github.com/zzzhxxx/zzzhxxx.github.io.git
   branch: master
+<<<<<<< HEAD
 bangumi: # 追番设置
   enable: true
   source: bili
@@ -124,3 +133,5 @@ steam:
   #   port: 1080
   length: 1000
     
+=======
+>>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7

@@ -8,7 +8,10 @@ id: '400'
 categories:
   - - 技术
 date: 2022-05-27 13:34:56
+<<<<<<< HEAD
 cover: https://pic.zzzhxxx.top/2022/05/30/2db9209fbbf91.png
+=======
+>>>>>>> a597a24e1f7e6d8057e941b01dfcd91c2ba0c5b7
 ---
 
 # 前言
