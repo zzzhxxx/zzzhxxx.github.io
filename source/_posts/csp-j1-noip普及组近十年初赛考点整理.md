@@ -6,6 +6,7 @@ id: '78'
 categories:
   - - 总结
 date: 2019-11-22 16:43:27
+cover: https://pic.zzzhxxx.top/2022/05/30/daff706dcb64b.png
 ---
 
 # CSP-J1 (NOIP普及组)近十年初赛考点整理
